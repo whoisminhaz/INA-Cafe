@@ -1,0 +1,6 @@
+{
+  "name": "Ina Cafe",
+  "description": "Unveiling the warmth of heritage Malay cooking, seaside hills, charcoal-grilled delicacies, and riverside serenity in the heart of Balik Pulau, Penang.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
